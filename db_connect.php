@@ -1,6 +1,6 @@
 <?php
-$host = "localhost";  // Use localhost or 127.0.0.1 if MySQL is on the same server
-$db_name = "dev_to";  // Your database name
+$host = "devto";  // Use localhost or 127.0.0.1 if MySQL is on the same server
+$db_name = "devto";  // Your database name
 $username = "user";  // Your MySQL username
 $password = "password@12345";  // Your MySQL password
 
